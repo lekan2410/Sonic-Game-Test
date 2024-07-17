@@ -20,3 +20,10 @@ This is a mini playground Sonic Game that I have created using Unity while also 
 
 # Gameplay Video
 Preview of the game below.
+
+
+
+# How to use project to test the game
+* Open the project on Unity
+* Find a folder called Assets, then go to Scripts, then Scenes
+* Click on Main Menu or SampleScene to start the game.
