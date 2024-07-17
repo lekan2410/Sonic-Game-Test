@@ -21,6 +21,7 @@ This is a mini playground Sonic Game that I have created using Unity while also 
 # Gameplay Video
 Preview of the game below.
 
+https://www.youtube.com/watch?v=9ZuK1o2g7lc
 
 
 # How to use project to test the game
